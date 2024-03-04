@@ -734,7 +734,7 @@ body {
 }
 
 .modal-checkbox-icon {
-  display: inline-flex;
+  /*display: inline-flex;*/
   width: 16px;
   height: 16px;
   border-radius: 2px;
@@ -759,8 +759,8 @@ body {
 .modal-checkbox-link {
   line-height: 1.33;
   text-decoration: underline;
-  text-decoration: none;
   color: #4d5ae5;
+  display: inline-flex;
 }
 
 .modal-form-subscription-button {
