@@ -734,7 +734,6 @@ body {
 }
 
 .modal-checkbox-icon {
-  /*display: inline-flex;*/
   width: 16px;
   height: 16px;
   border-radius: 2px;
@@ -742,6 +741,7 @@ body {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  display: inline-flex;
   justify-content: center;
   align-items: center;
   fill: transparent;
@@ -760,7 +760,6 @@ body {
   line-height: 1.33;
   text-decoration: underline;
   color: #4d5ae5;
-  display: inline-flex;
 }
 
 .modal-form-subscription-button {
