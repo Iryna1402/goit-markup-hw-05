@@ -725,8 +725,6 @@ body {
 }
 
 .checkbox-label {
-  position: relative;
-  padding-left: 24px;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
@@ -745,9 +743,6 @@ body {
   justify-content: center;
   align-items: center;
   fill: transparent;
-  position: absolute;
-  top: -2px;
-  left: 0px;
 }
 
 .modal-checkbox-input:checked + .checkbox-label > .modal-checkbox-icon {
