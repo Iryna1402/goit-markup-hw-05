@@ -648,7 +648,7 @@ body {
   margin-bottom: 16px;
 }
 
-.modal-form {
+.modal-form-wrapper {
   margin-bottom: 8px;
 }
 
@@ -661,7 +661,7 @@ body {
   color: #8e8f99;
 }
 
-.modal-input {
+.modal-input-wrap {
   position: relative;
 }
 
